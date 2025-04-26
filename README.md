@@ -32,4 +32,4 @@ I'm a passionate developer from India 🇮🇳, specializing in backend-end deve
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/aakriti-saxena-9a6048283/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakriti-saxena-9a6048283/)

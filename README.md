@@ -4,8 +4,8 @@
 
 I'm a passionate developer from India 🇮🇳, specializing in backend-end development and creating intuitive user experiences.
 
-- 🔭 I’m currently working on Travelling Salesperson Problem and Password Management System.
-- 🌱 I’m learning CSS and Javascript.
+- 🔭 I’m currently working on Gym Sync Web-Application and LALR parser with voice assistent.
+- 🌱 I’m learning Full Stack Web Development.
 - 💬 Ask me about C, C++, JAVA, DSA.
 - 📫 How to reach me: [aakritisaxena2005@gmail.com](mailto:aakritisaxena2005@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and challenges!

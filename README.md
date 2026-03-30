@@ -6,7 +6,7 @@ I'm a passionate developer from India 🇮🇳, specializing in backend-end deve
 
 - 🔭 I’m currently working on Gym Sync Web-Application and LALR parser with voice assistent.
 - 🌱 I’m learning Full Stack Web Development.
-- 💬 Ask me about C, C++, JAVA, DSA.
+- 💬 Ask me about C, C++, JAVA, DSA, OOP.
 - 📫 How to reach me: [aakritisaxena2005@gmail.com](mailto:aakritisaxena2005@gmail.com)
 - ⚡ Fun fact: I love solving puzzles and challenges!
 
@@ -28,6 +28,10 @@ I'm a passionate developer from India 🇮🇳, specializing in backend-end deve
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-800080?style=for-the-badge&logo=code&logoColor=white)
 ![Full Stack Web Development](https://img.shields.io/badge/Full%20Stack-Web%20Development-FF5722?style=for-the-badge&logo=code&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-4B0082?style=for-the-badge&logo=code&logoColor=white)
+![CN](https://img.shields.io/badge/CN-Computer%20Networks-008080?style=for-the-badge&logo=code&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Operating%20Systems-006400?style=for-the-badge&logo=code&logoColor=white)
+![DBMS](https://img.shields.io/badge/DBMS-Database%20Management%20Systems-8B0000?style=for-the-badge&logo=code&logoColor=white)
 
 ## 📈 GitHub Stats
 

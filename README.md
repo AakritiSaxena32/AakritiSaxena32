@@ -27,8 +27,8 @@ I'm a passionate developer from India 🇮🇳, specializing in backend-end deve
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AakritiSaxena32&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AakritiSaxena32&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=AakritiSaxena32&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AakritiSaxena32&layout=compact&theme=radical)
 
 ## Leetcode Stats
 
